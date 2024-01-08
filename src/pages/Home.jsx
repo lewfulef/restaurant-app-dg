@@ -32,7 +32,7 @@ export const Home = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
               non in totam blanditiis repudiandae perferendis expedita nihil,
               aliquid rem, quam, vel placeat adipisci deserunt voluptatum
-              repellendus quasi facilis? Sunt, reprehenderit!
+              repellendus quasi facilis? Sunt, reprehenderit!!
             </p>
             <p>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea

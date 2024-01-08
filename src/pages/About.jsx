@@ -22,7 +22,7 @@ export const About = () => {
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel
           dignissimos assumenda adipisci ad soluta et placeat laborum delectus
           sed nobis, id maiores voluptates nemo rerum, consequuntur ut modi.
-          Ipsam, aspernatur.
+          Ipsam, aspernatur miau.
         </p>
         <div className="row">
           <div className="col-lg-6">

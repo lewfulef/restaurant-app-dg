@@ -16,7 +16,7 @@ export const About = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae
           sed quam, placeat enim similique sit iusto doloribus quibusdam officia
           qui reprehenderit cumque sequi numquam asperiores eum saepe deserunt
-          modi expedita.
+          modi expeditamiausi.
         </p>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel

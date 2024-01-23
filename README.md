@@ -8,6 +8,9 @@ Este repositorio ha sido creado en el marco del aprendizaje de nuevas tecnologí
 
 Se desarrolla a partir de React como base, creando componentes con el uso de Hooks, estilizando con archivos CSS y la data es obtienida desde Firebase.
 
+
+## Despliegue:
+
 Para poder desplegar la aplicación es necesario seguir los siguientes pasos:
 
 1.- Descargar el pryecto
